@@ -9,6 +9,7 @@ It is designed to help understand business performance, identify key revenue dri
 
 ## Project Structure
 
+```
 ecommerce-revenue-dashboard/
 │
 ├── images/
@@ -22,6 +23,7 @@ ecommerce-revenue-dashboard/
 │   └── ecommerce_dashboard.xlsx
 │
 └── README.md
+```
 
 ---
 
